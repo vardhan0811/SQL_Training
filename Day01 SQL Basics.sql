@@ -1,7 +1,5 @@
 /*
 =========================================================
-SQL Server SELECT Statement – Practice Script
-Author: Your Name
 Description:
 - Creates sample Users & Transactions tables
 - Inserts demo data
@@ -208,3 +206,4 @@ WITH HighValueTransactions AS
 )
 SELECT *
 FROM HighValueTransactions;
+
